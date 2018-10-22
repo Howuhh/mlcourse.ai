@@ -114,3 +114,6 @@ data/athlete_events.csv
 
 # solutions
 *_solution.ipynb
+
+# OS
+.DS_Store
